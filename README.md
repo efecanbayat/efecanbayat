@@ -50,7 +50,7 @@
   >
   <a href="https://www.oracle.com/java/" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"
+      src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png"
       alt="java"
       width="40"
       height="40"
