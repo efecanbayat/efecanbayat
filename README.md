@@ -34,7 +34,7 @@
 <p align="left">
 <a href="https://developer.android.com/" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/1173px-Android_logo_2019_%28stacked%29.svg.png"
       alt="android"
       width="40"
       height="40"
@@ -50,7 +50,7 @@
   >
   <a href="https://www.oracle.com/java/" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"
+      src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"
       alt="java"
       width="40"
       height="40"
