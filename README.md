@@ -19,14 +19,6 @@
       height="30"
       width="30"
   /></a>
-  <a href="https://www.instagram.com/efecanbayat/" target="blank"
-    ><img
-      align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"
-      alt="efecanbayat"
-      height="30"
-      width="30"
-  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
