@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/ahmetefecanbayat/" target="blank"
     ><img
       align="center"
-      src="[https://telecos.upc.edu/ca/shared/images/social/logos-rodons/linkedin-circle.png/@@images/image.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png)"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"
       alt="ahmetefecanbayat"
       height="30"
       width="30"
