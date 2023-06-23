@@ -1,12 +1,11 @@
 <h1>Hi 👋, I'm Efecan</h1>
-<h3> A Mobile Developer</h3>
+<h3> An Android Developer</h3>
 
   <img src="./animation.gif" 
   alt="gif" 
   height="300"
   width="300" />
 
-- 🔭 I’m currently learning **Kotlin**
 - 🌱 I’m currently developing **Kotlin**
 - 📫 How to reach me **efecanbayat@gmail.com**
 
@@ -15,7 +14,7 @@
   <a href="https://www.linkedin.com/in/ahmetefecanbayat/" target="blank"
     ><img
       align="center"
-      src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png"
+      src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"
       alt="ahmetefecanbayat"
       height="30"
       width="30"
